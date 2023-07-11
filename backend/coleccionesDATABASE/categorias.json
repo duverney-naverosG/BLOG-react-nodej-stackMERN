@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "64a4af4d0d9e73875e7219cf"
+  },
+  "nombre": "ciencia"
+},{
+  "_id": {
+    "$oid": "64a4b2c90d9e73875e7219e4"
+  },
+  "nombre": "tecnologia"
+},{
+  "_id": {
+    "$oid": "64a4b2ce0d9e73875e7219e8"
+  },
+  "nombre": "innovacion"
+},{
+  "_id": {
+    "$oid": "64a4b2e30d9e73875e7219ec"
+  },
+  "nombre": "biotecnologia"
+}]

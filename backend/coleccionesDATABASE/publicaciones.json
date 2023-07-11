@@ -1,0 +1,447 @@
+[{
+  "_id": {
+    "$oid": "64a89b0e9e6132ddc74ccc41"
+  },
+  "titulo": "Crean un gel para impresión 3D que conduce muy bien la electricidad",
+  "descripcion": "<p>la impresión 3D ha revolucionado la fabricación de muchas clases de objetos y piezas, pero imprimir objetos metálicos en 3D a temperatura ambiente en un solo paso ha venido siendo un reto aparentemente insalvable.</p><p>Ahora, se ha conseguido crear un gel metálico altamente conductor de la electricidad que puede utilizarse para imprimir en 3D objetos sólidos a temperatura ambiente.</p><p>El logro es obra de un equipo integrado, entre otros, por Michael Dickey, de la Universidad Estatal de Carolina del Norte en Estados Unidos, y Ruizhe Xing, de esa misma universidad y de la Universidad Politécnica del Noroeste en la ciudad china de Xi’an.</p><p>Para elaborar el gel metálico, los investigadores parten de una solución de partículas de cobre a escala micrométrica suspendidas en agua. A continuación, los investigadores añaden una pequeña cantidad de una aleación de indio y galio que es un metal líquido a temperatura ambiente. Se agita la mezcla resultante.</p><p>Al agitar la mezcla, el metal líquido y las partículas de cobre se adhieren entre sí, formando una «red» de gel metálico dentro de la solución acuosa.</p><p>Esta consistencia gelatinosa es importante, porque significa que hay una distribución bastante uniforme de partículas de cobre por todo el material. Esto tiene dos efectos. En primer lugar, significa que la red de partículas se conecta para formar vías eléctricas. En segundo lugar, las partículas de cobre no se sedimentan y por tanto no obstruyen los conductos de la impresora.</p><p>El gel resultante puede imprimirse con una boquilla de impresión 3D convencional y conserva su forma una vez impreso. Y, cuando se deja secar a temperatura ambiente, el objeto 3D resultante se vuelve aún más sólido y conserva su forma.</p><p>Además, si durante el proceso de secado se le aplica calor adicional del modo idóneo, es posible provocar los cambios de forma que se deseen.</p><p>El nuevo y revolucionario gel abre la puerta a la fabricación de una amplia gama de componentes y dispositivos eléctricos y electrónicos.</p><p>Dickey, Xing y sus colegas exponen los detalles técnicos de su gel conductor en la revista académica Matter, bajo el título “Metallic Gels for Conductive 3D and 4D Printing”</p>",
+  "foto": "16887713418441.jpg",
+  "usuario": [
+    {
+      "$oid": "64a898b39e6132ddc74ccc28"
+    },
+    "Leanne_Graham",
+    "1688770737126person_1.jpg"
+  ],
+  "categoria": [
+    "ciencia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:09:02.854Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:09:02.854Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a89b8c9e6132ddc74ccc50"
+  },
+  "titulo": "Crean un tratamiento para la diabetes que se puede comer en vez de inyectar",
+  "descripcion": "<p>as inyecciones diarias de insulina podrían ser cosa del pasado gracias a este nuevo tratamiento para la diabetes que consistiría en insulina cultivada en lechuga y, por ello, no solo sería más barata sino que se podría tomar por vía oral.</p><p>Las células animales comparten algunas cualidades con las células vegetales, pero una característica clave de la que carecen las nuestras es de una pared celular rígida. Si bien esto proporciona estructura para las plantas, también es algo que los científicos están buscando cada vez más para su uso en nuevos materiales. En este caso, para la administración de insulina.</p><p><strong>Alternativas</strong></p><p>Ahora, un equipo de investigadores de la Universidad de Pensilvania ha encontrado una forma de recolectar insulina cultivada en lechuga y, a diferencia de la sintética actual, este tipo no requeriría inyecciones dolorosas.</p><p>Como las personas con diabetes tipo 1 producen poca o ninguna insulina de forma natural, precisan de inyectarse la sintética, y algunas personas con diabetes tipo 2 también necesitan inyecciones. Si no están bien calibradas, estas pueden llevar demasiada insulina al torrente sanguíneo demasiado rápido. Por lo general, esta insulina se cultiva en bacterias o células de levadura; se trata de un proceso complicado que hace que existan solo unas pocas empresas que producen la mayor parte de la insulina del mundo, y esta falta de competencia hace que el tratamiento sea más caro para los usuarios.</p><p><strong>¡A por lechuga!</strong></p><p>La insulina debe almacenarse a bajas temperaturas y administrarse mediante una jeringa, una pluma de insulina o una bomba de insulina permanente. La administración oral no está disponible actualmente ya que, al ser una proteína, las enzimas digestivas del estómago descomponen rápidamente la insulina. En la nueva investigación, los expertos pusieron a prueba una novedosa tecnología para producirla en la planta de lechuga, usando sus células como pequeñas fábricas, al igual que ya se están utilizando las bacterias y la levadura.</p><p>Los investigadores utilizaron lo que ellos llaman una «pistola de genes», disparando cloroplastos de lechuga con material genético encapsulado en oro y luego las células se usaron para reproducir plantas. Las lechugas resultantes se revelaron como una fuente suficientemente buena de proinsulina, un precursor que madura y se convierte en insulina en el cuerpo. La insulina que producen es en realidad superior a los tipos más populares que se usan hoy en día porque incluye un péptido natural que falta en otros productos. En la parte final del proceso, la lechuga se cultiva, se liofiliza y se muele hasta obtener un polvo que se puede tragar. Este polvo es el fármaco definitivo.</p><p>Esta forma de producir insulina es muchísimo más barata que el procedimiento habitual y, además, es estable en almacenamiento, lo que hace que sea también mucho más económica de almacenar y transportar.</p><p>“El riesgo de hipoglucemia es una de las mayores desventajas del sistema de administración actual e incluso puede provocar un coma”, explica Henry Daniell, de la Facultad de Medicina Dental de la Universidad de Pensilvania y coautor del trabajo que publica la revista Biomaterials. “Nuestra insulina, administrada por vía oral, tiene las tres proteínas y se administra directamente al hígado. Funciona igual que la insulina natural, lo que minimiza el riesgo de hipoglucemia”.</p><p>«Crecí en un país en desarrollo y vi morir a la gente porque no podían pagar los medicamentos o las vacunas. Para mí, la asequibilidad y el acceso global a la atención médica son la base de mi trabajo»</p><p><strong>Experimento con ratones</strong></p><p>En el ensayo con roedores, la insulina de origen vegetal pudo regular el azúcar en la sangre en 15 minutos, en comparación con la insulina secretada de forma natural. Los ratones tratados con inyecciones de insulina tradicionales experimentaron niveles de glucosa en sangre que se desplomaron y provocaron hipoglucemia.</p><p>Si bien los resultados en el estudio con ratones son muy prometedores, todavía hará falta algo más de tiempo antes de que este interesante método pueda ser una realidad para los más de 530 millones de adultos que viven con diabetes cada día; pero los investigadores confían en este tratamiento y esperan pasar pronto a un ensayo más grande, primero con perros diabéticos y luego con seres humanos. Si funciona como se espera, los científicos creen que podría cambiar las reglas del juego para tantos millones de personas que lidian con la diabetes en todo el mundo.</p><p><strong>Fuente: elconfidencial.com</strong></p>",
+  "foto": "16887714685041.jpg",
+  "usuario": [
+    {
+      "$oid": "64a898b39e6132ddc74ccc28"
+    },
+    "Leanne_Graham",
+    "1688770737126person_1.jpg"
+  ],
+  "categoria": [
+    "biotecnologia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:11:08.865Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:11:08.865Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a89d0493fbc62fbd9fd59b"
+  },
+  "titulo": "Investigadores descubren un nuevo tipo de ordenador cuántico basado en ondas de sonido",
+  "descripcion": "<p>investigadores han descubierto que los fonones, partículas cuánticas indivisibles del sonido, muestran propiedades cuánticas como la superposición y el entrelazamiento, lo que facilita el camino para el desarrollo de una nueva generación de ordenadores cuánticos.</p><p>Investigadores de la Escuela Pritzker de Ingeniería Molecular de la Universidad de Chicago han hecho un descubrimiento clave que podría llevar al desarrollo de un nuevo tipo de ordenador cuántico. Utilizando la física de las ondas del sonido, están explorando las propiedades cuánticas de los fonones, partículas cuánticas indivisibles que forman un haz de sonido.</p><p>En un reciente experimento publicado en la revista Science, el equipo utilizó divisores de haz acústicos para dividir los fonones y entrelazarlos, demostrando su capacidad de entrar en un estado de superposición.</p><p>Esta capacidad es similar a la observada en los fotones de la luz, donde un fotón puede estar simultáneamente en 2 lugares diferentes. Para entenderlo mejor, la investigación reveló que los fonones poseen la misma propiedad de superposición cuántica que los fotones.</p><p>Con esto, el equipo planteó una pregunta: ¿qué sucedería si se enviaran 2 fonones idénticos al divisor de haz desde direcciones opuestas? Descubrieron que los fonones se entrelazaban mecánicamente cuánticamente, creando un estado de superposición en el que los fonones están bloqueados en una dirección específica.</p><p>Un gran descubrimiento en el campo de la computación cuántica</p><p>Esto se conoce como efecto Hong-Ou-Mandel y también se ha observado previamente en fotones. Ahora, se ha demostrado con éxito con el sonido.</p><p>Estos hallazgos abren la puerta a la posibilidad de construir una nueva forma de ordenador cuántico, llamada ordenador cuántico mecánico, que aproveche los fonones en lugar de los fotones o los qubits electrónicos utilizados en las convencionales.</p><p>Su implementación tendría un gran impacto en el campo de la computación cuántica y podría ofrecer capacidades computacionales únicas. Además, la integración de tecnologías basadas en fonones con ordenadores cuánticos convencionales podría abrir nuevas puertas en el sector.</p><p>Aunque la tecnología para generar y detectar fonones individuales aún está en desarrollo, este avance en la comprensión de las propiedades cuánticas del sonido es un paso realmente importante hacia la construcción de un ordenador cuántico mecánico funcional.</p><p><strong>Fuente: computerhoy.com</strong></p>",
+  "foto": "16887718440302.jpg",
+  "usuario": [
+    {
+      "$oid": "64a898b39e6132ddc74ccc28"
+    },
+    "Leanne_Graham",
+    "1688770737126person_1.jpg",
+    "Leanne Graham",
+    929983874
+  ],
+  "categoria": [
+    "tecnologia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:17:24.314Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:17:24.314Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a89e5993fbc62fbd9fd5d5"
+  },
+  "titulo": "El altavoz de iones de plasma que puede eliminar el ruido de tus vecinos",
+  "descripcion": "<p>un nuevo sistema de cancelación de ruido que utiliza unos finísimos altavoces de iones de plasma para eliminar sonidos. Sus creadores aseguran que una capa de 17 milímetros de este dispositivo es tan efectiva contrarrestando el ruido como una pared de cuatro metros de grosor.</p><p>Los altavoces de plasma generan el sonido mediante un conjunto de cables paralelos que crean un campo eléctrico lo suficientemente fuerte como para ionizar las partículas de aire. Esos iones cargados, dicen los investigadores, se aceleran a lo largo de las líneas del campo magnético, empujando el aire residual no ionizado para producir el sonido.</p><p>Pero, igual que el sistema crea el sonido, también lo puede absorber, como hacen los auriculares equipados con sistema de cancelación activa de sonido (ANC, en sus siglas en inglés). Lo que hacen los sistemas ACN es que miden las ondas de sonido que le llegan con unos micrófonos y la neutralizan generando exactamente las mismas ondas en sentido inverso al reproducirlas a través de un altavoz.</p><p>Los investigadores del EPFL han usado altavoces de plasma para crear un sistema de ANC que sea más fino, ligero y barato de construir que el que se obtiene usando altavoces tradicionales. El nuevo sistema, dicen, se diferencia de estos en que no lleva membrana y puede ampliar la gama de frecuencias en las que puede funcionar y aumentar su capacidad de interactuar eficazmente con sonidos que cambian rápidamente o a altas frecuencias.</p><p>«Queríamos reducir al máximo el efecto de la membrana, que pesa mucho. Pero ¿qué puede ser tan ligero como el aire? El propio aire», explica Stanislav Sergeev, investigador del Grupo de Acústica de la EPFL y autor principal del artículo publicado en Nature que explica su descubrimiento. «Primero ionizamos la fina capa de aire entre los electrodos que llamamos capa metálica plasmacústica. Las mismas partículas de aire, ahora cargadas eléctricamente, pueden responder instantáneamente a órdenes de campos eléctricos externos e interactuar eficazmente con las vibraciones sonoras del aire que rodea el dispositivo para anularlas. Como era de esperar, la comunicación entre el sistema de control eléctrico del plasma y el entorno acústico es mucho más rápida que con una membrana».</p><p>El equipo descubrió que estos altavoces plasmacústicos eran excepcionalmente sensibles y eficientes a la hora de anular las frecuencias altas, pero también los sonidos de baja frecuencia, algo que no habían podido conseguir en sus experimentos anteriores, como explican en el vídeo sobre estas líneas.</p><p>Los investigadores aseguran que una frecuencia sonora de 20 Hz, aproximadamente el límite de baja frecuencia del aparato auditivo humano, en la que la longitud de onda del sonido es de 17 metros necesitaría una capa de material de 17 mm de espesor para absorber el ruido. Para conseguir un efecto similar con los muros aislantes, uno de los sistemas más habituales de reducción del ruido, estos tendrían que tener al menos 4 metros de espesor.</p><p>Ya habíamos visto en Novaceno un altavoz ultrafino creado por investigadores del MIT que también promete cancelación de sonido en espacios interiores, sin embargo, los investigadores de la EPFL ya están dando pasos para sacarlo al mercado. El equipo trabaja ya con la empresa suiza Sonexos para comercializar este novedoso sistema de cancelación de sonido y aplicarlo en interiores de cabinas de vehículos y aviones, en oficinas y en hogares.</p><p>«La capa metálica absorbe el cien por cien de la intensidad del sonido entrante y no refleja nada», explica Hervé Lissek, científico jefe del Grupo de Acústica de la EPFL. «Lo más fantástico de este concepto es que, a diferencia de los absorbentes de sonido convencionales basados en materiales porosos o estructuras resonantes, el nuestro es etéreo. Hemos creado un mecanismo de absorción acústica completamente nuevo, que puede hacerse lo más fino y ligero posible, abriendo nuevas fronteras en términos de control del ruido allí donde el espacio y el peso importan, especialmente a bajas frecuencias».</p><p><strong>Fuente: elconfidencial.com</strong></p>",
+  "foto": "16887721854193.jpg",
+  "usuario": [
+    {
+      "$oid": "64a899009e6132ddc74ccc2b"
+    },
+    "Ervin_Howell",
+    "1688770815136person_4.jpg",
+    "Ervin Howell",
+    905667771
+  ],
+  "categoria": [
+    "tecnologia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:23:05.726Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:23:05.726Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a89ed093fbc62fbd9fd5e4"
+  },
+  "titulo": "Serendipia: El arte de descubrir lo inesperado en la ciencia",
+  "descripcion": "<p>a serendipia es un fenómeno fascinante en el mundo de la ciencia que ha llevado a descubrimientos importantes y revolucionarios. Conozcamos el concepto de la serendipia, sus implicaciones en la investigación científica y algunos ejemplos célebres que han cambiado el curso de la historia.</p><p><strong>¿Qué es la Serendipia?</strong></p><p>La serendipia se refiere a la capacidad de hacer descubrimientos valiosos o importantes de manera inesperada y por accidente mientras se busca algo completamente diferente. Es la habilidad de reconocer el valor de un hallazgo fortuito y aprovecharlo para avanzar en el conocimiento científico. La serendipia a menudo surge de la curiosidad, la observación aguda y la mente abierta para ver más allá de lo que se espera.</p><p><strong>La Importancia de la Serendipia en la Ciencia:</strong></p><p>La serendipia desempeña un papel significativo en la ciencia, ya que ha llevado a avances y descubrimientos sorprendentes en diversos campos. Al estar dispuestos a aceptar lo inesperado y analizarlo cuidadosamente, los científicos han logrado descubrir nuevos medicamentos, fenómenos naturales y teorías fundamentales. La serendipia fomenta la creatividad y el pensamiento innovador al permitir que las mentes científicas encuentren conexiones y patrones que no eran evidentes anteriormente.</p><p>Ejemplos Célebres de Serendipia:</p><ol><li>Penicilina: El descubrimiento de la penicilina por Alexander Fleming en 1928 es uno de los ejemplos más conocidos de serendipia en la historia de la medicina. Mientras investigaba bacterias, Fleming notó que una placa de cultivo había sido contaminada por un hongo que inhibía el crecimiento bacteriano. Este hallazgo casual condujo al desarrollo de uno de los antibióticos más importantes de todos los tiempos.</li><li>Rayos X: En 1895, Wilhelm Roentgen estaba investigando la radiación cuando notó que un material fluorescente cercano a su experimento comenzó a brillar de manera inesperada. Este fenómeno insospechado resultó en el descubrimiento de los rayos X, una herramienta invaluable en el diagnóstico médico.</li><li>Viagra: Originalmente desarrollado para tratar enfermedades del corazón, el sildenafil, ingrediente activo del Viagra, se descubrió por casualidad como un medicamento para la disfunción eréctil. Los investigadores observaron que los efectos secundarios del fármaco tenían un beneficio inesperado y revolucionario.</li></ol><p><br></p><p>El Papel de la Serendipia en la Innovación:</p><p>La serendipia no solo ha conducido a descubrimientos científicos, sino que también ha desempeñado un papel importante en la innovación tecnológica. Muchos avances en la tecnología, como la invención del microondas o la creación de la goma de mascar, surgieron de observaciones accidentales o experimentos que se desviaron del objetivo original. Estos descubrimientos fortuitos han demostrado que estar abierto a lo inesperado puede conducir a avances sorprendentes y beneficios para la sociedad.</p><p><strong>Fuente: noticiasdelaciencia.com</strong></p>",
+  "foto": "16887723042094.jpg",
+  "usuario": [
+    {
+      "$oid": "64a899009e6132ddc74ccc2b"
+    },
+    "Ervin_Howell",
+    "1688770815136person_4.jpg",
+    "Ervin Howell",
+    905667771
+  ],
+  "categoria": [
+    "ciencia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:25:04.524Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:25:04.524Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a89f2993fbc62fbd9fd5f3"
+  },
+  "titulo": "Las aves crían menos porque no se adaptan a la primavera adelantada",
+  "descripcion": "<p>El aumento de las temperaturas en todo el mundo está dificultando que las aves sepan cuándo es primavera y cuándo es el momento de reproducirse.</p><p>Una amplia colaboración dirigida por científicos de la Universidad de California Los Ángeles (UCLA) y la Universidad Estatal de Michigan ha descubierto que las aves producen menos crías si empiezan a criar demasiado pronto o demasiado tarde en la estación. Según los investigadores, el cambio climático adelanta la primavera y las aves son incapaces de seguir el ritmo, según el estudio, publicado en ‘Proceedings of the National Academy of Sciences’.</p><p>Además, según los autores, es probable que el desajuste entre el inicio de la primavera y la disposición de las aves a reproducirse empeore a medida que el mundo se caliente, lo que podría tener consecuencias a gran escala que serían catastróficas para muchas poblaciones de aves.</p><p>La época de reproducción de las aves comienza cuando aparecen las primeras plantas y flores verdes, lo que ocurre cada vez antes a medida que el clima se calienta.</p><p>«A finales del siglo XXI, es probable que la primavera llegue unos 25 días antes y que las aves se reproduzcan unos 6,75 días antes –explica Casey Youngflesh, primera autora del estudio, que dirigió la investigación como investigadora postdoctoral en la UCLA y ahora es becaria postdoctoral en el Estado de Michigan–. Nuestros resultados sugieren que la productividad reproductora puede disminuir alrededor de un 12% para la especie media de pájaro cantor».</p><p>Los autores subrayan que las estrategias de conservación deben tener en cuenta las respuestas de las especies de aves a los cambios provocados por el clima.</p><p>Determinar si las primaveras más tempranas plantearán problemas a las aves migratorias ha sido uno de los principales objetivos de los biólogos durante décadas.</p><p>«Durante casi 30 años, los científicos han planteado la hipótesis de que los animales podrían desajustarse de las plantas al adelantarse las primaveras –explica en un comunicado Morgan Tingley, profesor asociado de ecología y biología evolutiva de la UCLA y autor principal del estudio–. Aunque ha habido algunos estudios de casos muy buenos de este fenómeno, ha seguido siendo un gran misterio si el adelanto de las primaveras supondrá un problema general para la mayoría de las especies».</p><p>Cuando se trata de criar, el momento es importante para las aves. Si crían demasiado pronto o demasiado tarde, las inclemencias del tiempo pueden perjudicar a sus huevos o recién nacidos. Pero el momento en relación con las fuentes de alimento también es importante: Si las aves buscan alimento antes o después de su disponibilidad natural, es posible que no dispongan de los recursos necesarios para mantener vivas a sus crías.</p><p>«Hemos hallado pruebas de las repercusiones en la reproducción de las aves tanto del calendario absoluto como del relativo», destaca Tingley.</p><p>Utilizando datos de un programa colaborativo de anillamiento de aves a gran escala dirigido por el Instituto para las Poblaciones de Aves, los investigadores calcularon el momento de la reproducción y el número de crías producidas para 41 especies de aves migratorias y residentes en 179 sitios cerca de áreas boscosas en toda América del Norte entre 2001 y 2018.</p><p>Luego, los autores utilizaron imágenes satelitales para determinar cuándo surgió la vegetación alrededor de cada sitio. Descubrieron que cada especie tenía un momento óptimo para reproducirse, y que el número de crías producidas disminuía cuando la primavera llegaba muy temprano, o cuando la reproducción ocurría temprano o tarde en relación con el momento en que emergían las plantas.</p><p>Mientras que la mayoría de las aves se veían perjudicadas por las variaciones en el inicio de la primavera, varias especies –entre ellas el cardenal norteño, el chochín de Bewick y el herrerillo chochín– contrarrestaban la tendencia, demostrando una mayor productividad reproductora cuando la primavera empezaba antes.</p><p>Se trata en su mayoría de especies no migratorias que pueden responder más rápidamente a la aparición de las plantas primaverales que señalan el inicio de la estación reproductora.</p><p>El estudio señala que, al reproducirse antes y sin las limitaciones impuestas por la migración, las especies no migratorias también pueden reproducirse más de una vez por temporada.</p><p>Pero esas especies eran las excepciones a la regla ya que incluso la mayoría de las especies no migratorias no pudieron seguir el ritmo de las llegadas más tempranas en primavera. En general, por cada cuatro días antes que aparecían las hojas en los árboles, las especies se reproducían sólo un día antes.</p><p>Para las especies migratorias, esa discrepancia significa que el tiempo entre la llegada a sus lugares de cría y la cría propiamente dicha es probable que se acorte a medida que las condiciones primaverales comiencen antes.</p><p>Las aves necesitan tiempo para establecer territorios y prepararse fisiológicamente para la puesta de huevos y la cría de sus polluelos, por lo que ese cambio podría causar perturbaciones aún mayores en la reproducción.</p><p>«Norteamérica ha perdido casi un tercio de sus poblaciones de aves desde la década de 1970 –alerta Tingley–. Aunque nuestro estudio demuestra que es probable que los peores efectos del desajuste temporal no se produzcan hasta dentro de varias décadas, tenemos que centrarnos ahora en estrategias concretas para aumentar las poblaciones de aves antes de que el cambio climático provoque la desaparición de la población de aves».</p><p><strong>Fuente: europapress.es</strong></p>",
+  "foto": "16887723928625.jpg",
+  "usuario": [
+    {
+      "$oid": "64a899009e6132ddc74ccc2b"
+    },
+    "Ervin_Howell",
+    "1688770815136person_4.jpg",
+    "Ervin Howell",
+    905667771
+  ],
+  "categoria": [
+    "innovacion"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:26:33.277Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:27:14.334Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a8a05493fbc62fbd9fd620"
+  },
+  "titulo": "Descubren un tesoro de más de medio millón de dólares adentro de un cachalote",
+  "descripcion": "<p>Mientras buscaban las causas de la muerte de un cachalote, un grupo de científicos españoles halló una piedra de ámbar gris de más de nueve kilogramos. ¿Cuánto puede costar y para qué se usa? Le contamos.</p><p>Hace unas semanas la comunidad que habita cerca de la playa de Nogales, ubicada en el nororiente de la isla española La Palma, alertó a un grupo de veterinarios por el varamiento de un cachalote, una especie de mamífero marino reconocido por la célebre novela Moby Dick del escritor Herman Melville.</p><p>Hasta el lugar llegaron varios científicos pertenecientes al Instituto Universitario de Sanidad Animal y Seguridad Alimentaria (IUSA) de la Universidad de Las Palmas de Gran Canaria. Antonio Fernández Rodríguez, director del Instituto, se puso al frente de la autopsia del gigantesco animal.</p><p>Como le dijo el experto a National Geographic, “era importante llegar a un diagnóstico de causa natural, pues había sospechas de que podrían ser causas antrópicas, derivadas de la actividad humana, bien fuera como consecuencia de unas maniobras militares que se habían producido recientemente o debido al paso de los ferris, que a veces colisionan con los cachalotes”.</p><p>Fernández, que tiene más de 30 años de experiencia, intuyó, por lo que veía, que la causa de la muerte del cachalote se encontraba en su interior, específicamente, en el colón. Tras inspeccionar el tracto digestivo del animal, encontró una “piedra” de unos 50 a 60 centímetros de diámetro que pesaba casi 10 kilogramos.</p><p>Esta piedra, no solo explicaba la muerte del cachalote, que falleció producto de la obstrucción que generó y una posterior infección, sino que también era un tesoro. “Todos me miraban cuando volví a la playa —le dijo Fernández a The Guardian—, pero no sabían que lo que tenía en las manos era ámbar gris”.</p><p>El ámbar gris, como explica el periodista inglés Philip Hoare en su libro Leviatán o la ballena, se produce en el tracto digestivo del cachalote luego de que este ingiera calamares. Tras un proceso que implica los cuatro estómagos que tienen estos animales, la mezcla de los moluscos, los ácidos, entre otras sustancias, produce “ocasionalmente” ámbar gris.</p><p>Y es importante resaltar que Hoare señala que es “ocasional”, pues según varios expertos tan solo uno entre cada 100 cachalotes produce ámbar. Esta sustancia rara, explica Ana Laura Ortalli, del departamento de Química Biológica de la Universidad de Buenos Aires, tras su descomposición “por el aire, el sol y el agua del mar lo convierten en una sustancia blanca cuyo olor se suaviza con el tiempo hasta ser un aroma tan agradable como el mejor perfume”.</p><p>Por esta razón, como contó Melville en su libro, ha sido codiciado por quienes fabrican lujosos perfumes desde hace miles de años. Para hacerse una idea, la “piedra” que Fernández encontró puede valer más de 500.000 dólares, es decir, más de 2.000 millones de pesos colombianos.</p><p>Resuelto el misterio que llevó a la muerte del cachalote, los investigadores de la IUSA, esperan que el dinero que se obtenga de la venta del ámbar gris pueda ser utilizado para parte de la reconstrucción que se adelanta en la isla, tras la erupción hace un par de años del volcán de Tajogaite.</p><p><strong>Fuente: elespectador.com</strong></p>",
+  "foto": "16887726922787.jpg",
+  "usuario": [
+    {
+      "$oid": "64a899469e6132ddc74ccc2e"
+    },
+    "Clementine_Bauch",
+    "1688770885398person_2.jpg",
+    "Clementine Bauch",
+    595904157
+  ],
+  "categoria": [
+    "ciencia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:31:32.745Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:31:32.745Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a8a0b493fbc62fbd9fd62f"
+  },
+  "titulo": "Utilizan la impresión 3D en la creación de filtros para captura el CO2 del aire",
+  "descripcion": "<p>Uno de los mayores retos a los que se enfrenta hoy la humanidad es, sin duda, el cambio climático. Este se ve impulsado por un exceso de dióxido de carbono (CO2) en la atmósfera, que provoca un efecto invernadero y calienta el planeta. Y aunque la solución al calentamiento global no está necesariamente clara, muchos científicos están abordando el problema. Sin embargo, según un nuevo estudio de la Universidad Estatal de Carolina del Norte, la fabricación aditiva podría desempeñar un papel importante. Un grupo de investigación ha demostrado que es posible imprimir en 3D filtros para capturar el CO2 del aire.</p><p>Como hemos mencionado, el calentamiento global es consecuencia directa del exceso de CO2 liberado a la atmósfera como resultado de los procesos industriales y, en particular, del uso del petróleo. De hecho, según un informe anual del Laboratorio de Monitorización Global de la Administración Nacional Oceánica y Atmosférica (NOAA), la media mundial de dióxido de carbono atmosférico fue de 417,06 partes por millón en 2022, un nuevo récord y un aumento de más del 50% respecto a los niveles preindustriales. Por no hablar de que la absorción de CO2 en los océanos ha provocado un aumento del 30% de la acidez. Pero los problemas son difíciles de resolver. Aunque lo ideal sería dejar de utilizar los combustibles fósiles que contribuyen al problema, muchos temen que eso perturbe nuestro modo de vida. Por eso se buscan activamente formas de capturar y almacenar el CO2 que ya está en la atmósfera.</p><p>Recientemente, investigadores de NC State demostraron que era posible crear filtros de captura de dióxido de carbono mediante impresión 3D. Concretamente, imprimiendo en 3D un material de hidrogel capaz de contener anhidrasa carbónica. Esto es importante porque esta enzima es capaz de acelerar una reacción que transforma el CO2 y el agua en bicarbonato. Jialong Shen, profesor adjunto de investigación de ingeniería textil, química y ciencias en NC State y autor principal del estudio, explicó: “Este proceso de impresión 3D hace que todo sea más rápido y preciso. Si se tiene acceso a una impresora y a las materias primas, se puede fabricar este material funcional. Formulamos el hidrogel de manera que fuera lo bastante resistente mecánicamente para imprimirlo en 3D, y también para extruirlo en un filamento continuo”.</p><p><strong>Filtros de CO2 impresos en 3D</strong></p><p>Así, los investigadores utilizaron la impresión en 3D como método más rápido y versátil para crear los filtros de CO2. Recurrieron a un proceso que casi parece un cruce entre la impresión 3D por extrusión y la fotopolimerización, similar a la inyección de material. Para ello crearon una «tinta» de impresión 3D a partir de dos compuestos orgánicos diferentes y anhidrasa carbónica. A continuación, pudieron imprimir filamentos de hidrogel en una rejilla bidimensional mientras solidificaban la solución con luz ultravioleta. Era importante fabricar un hidrogel que no sólo pudiera extruirse en un filamento continuo, sino que también fuera lo bastante resistente para imprimirse en 3D.</p><p>En definitiva, el resultado fue satisfactorio. Según un comunicado de prensa, en un experimento a pequeña escala lograron capturar el 24% del CO2 de una mezcla gaseosa. Aunque esta cifra fue menor que en pruebas anteriores, podría atribuirse al hecho de que el filtro tenía menos de una pulgada de diámetro. Además, es posible hacer los filtros más grandes y de diferentes formas para apilarlos en una gran columna y aumentar así la eficacia. Las pruebas de durabilidad del filtrado también revelaron que conservaba el 52% de su rendimiento inicial de captura de carbono después de más de 1.000 horas.</p><p>Sonja Salmon, coautora del estudio y profesora asociada en NC State, concluye: “Este trabajo está aún en una fase temprana, pero nuestros resultados sugieren que hay nuevas formas de fabricar materiales para dispositivos de captura de carbono. Ofrecemos una esperanza para reducir el CO2”. Puedes encontrar más información en el estudio completo,&nbsp;<a href=\"https://www.mdpi.com/2310-2861/9/4/341\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(0, 123, 255);\">aquí</a>.</p><p><strong>Fuente: 3dnatives.com</strong></p>",
+  "foto": "16887727879758.jpg",
+  "usuario": [
+    {
+      "$oid": "64a899469e6132ddc74ccc2e"
+    },
+    "Clementine_Bauch",
+    "1688770885398person_2.jpg",
+    "Clementine Bauch",
+    595904157
+  ],
+  "categoria": [
+    "innovacion"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:33:08.510Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:33:08.510Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a8a12a93fbc62fbd9fd63e"
+  },
+  "titulo": "Descubren singular método para crear aleaciones imposibles hasta ahora",
+  "descripcion": "<p>Investigadores de la Universidad de Wuhan, China, han logrado fabricar aleaciones de metal complejas a bajas temperaturas usando galio, un metal que se funde fácilmente y que simplifica enormemente el proceso de producción. El descubrimiento ha sorprendido a sus propios creadores, que lo califican de demasiado bueno para ser cierto por su sencillez y eficiencia, y abre el camino a la creación de nuevos materiales que no son posibles de obtener con los métodos tradicionales.</p><p>Hoy en día el proceso de creación de aleaciones de más de cinco metales —llamadas aleaciones de alta entropía (HEA, por sus siglas en inglés)— consume mucha energía y requiere temperaturas de hasta 2.000 grados centígrados. Conseguir estas aleaciones es tan complicado que aunque se obtengan las condiciones perfectas para que suceda la fusión, no está en absoluto garantizada, ya que los átomos metálicos pueden resultar incompatibles entre sí y deshacer la aleación.</p><p>«Es como intentar formar un grupo cohesionado a partir de cinco personas con naturalezas y personalidades diferentes. Cualquier desacuerdo puede romper fácilmente el grupo», explica el Fu Lei, director del estudio y profesor de la Facultad de Química y Ciencias Moleculares de la Universidad de Wuhan para el medio South China Morning Post.</p><p><strong>Demasiado fácil como para ser creíble</strong></p><p>Para lograr un método más eficaz de preparar las aleaciones HEA, los investigadores pensaron en el galio, un elemento que mayoritariamente se obtiene como subproducto de la producción de bauxita —el mineral utilizado para obtener aluminio— y que tiene la asombrosa capacidad de fundirse a temperatura ambiente, se derrite con solo sostenerlo entre las manos, a 29,8º Célsius. Por ello, este metal es una alternativa actual segura a los termómetros de mercurio.</p><p>Los investigadores usaron el galio como adhesivo y medio de reacción del proceso y el resultado fue sorprendentemente bueno. El galio les permitió reducir las temperaturas de preparación hasta los 650º Celsius sin provocar ninguna diferencia con respecto a los procesos tradicionales. Además, el equipo de Fu descubrió que el calentamiento de varios metales compatibles colocados sobre la superficie del metal líquido provocaba el crecimiento espontáneo de nanopartículas cristalinas de HEA, un proceso que los investigadores captaron en tiempo real, según el artículo.</p><p>La sencillez y la eficacia de este descubrimiento ha sorprendido no solo a sus creadores, sino a la comunidad científica. “Descubrimos este fenómeno hace dos años, pero fue difícil convencer a la gente de que con sólo añadir metales líquidos se podía mejorar mucho el proceso de síntesis de materiales de aleación”, declara Fu. «Incluso a los expertos de Nature les parecieron ‘increíbles’ los resultados cuando vieron el manuscrito por primera vez».</p><p><strong>Nuevos usos sin precedentes</strong></p><p>El descubrimiento de Fu y su equipo supone un gran avance en la ciencia de materiales ya que las HEA son más resistentes al desgaste, la fatiga y la corrosión. Estas aleaciones complejas tienen un gran potencial en el sector aeroespacial, los equipos médicos y el almacenamiento de energía.</p><p>De momento, el galio se usa principalmente en circuitos electrónicos, semiconductores y diodos emisores de luz (LED). Pero lo vemos cada vez más en increíbles avances en la robótica, como robots hechos de galio que parecen inspirados por el T-1000, el androide de metal líquido de la película Terminator. Gracias a sus propiedades, los robots hechos con este material pueden derretirse, cambiar de forma y atravesar barreras, lo que abre la puerta a nuevas y prometedoras aplicaciones que eran imposibles hasta ahora.</p><p><strong>Fuente: elconfidencial.com</strong></p>",
+  "foto": "16887729056129.jpg",
+  "usuario": [
+    {
+      "$oid": "64a899469e6132ddc74ccc2e"
+    },
+    "Clementine_Bauch",
+    "1688770885398person_2.jpg",
+    "Clementine Bauch",
+    595904157
+  ],
+  "categoria": [
+    "innovacion"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:35:06.313Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:35:06.313Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a8a1f493fbc62fbd9fd657"
+  },
+  "titulo": "Un compuesto presente en el semen restringe la transmisión de una variante del VIH",
+  "descripcion": "<p>Un estudio encabezado por la Universidad de Ulm (Alemania) descubrió que la espermina, un compuesto abundante en el semen humano, restringe la transmisión sexual de las variantes X4 del VIH. Este hallazgo podría ayudar a explicar por qué las variantes X4-VIH-1 son menos prevalentes en pacientes no tratados.</p><p>Para obtener este resultado, los científicos aislaron y analizaron moléculas del plasma seminal en busca de actividad inhibidora contra las variantes X4, que usan el correceptor CXCR4 para entrar en las células. Por su parte, las variantes R5 del VIH-1, que utilizan el correceptor CCR5 para ingresar a las células, causan casi exclusivamente infección sistémica tras las relaciones sexuales.</p><p>Con respecto a este hellazgo, Jean-Philippe Herbeuva, uno de los líderes del estudio, señaló que “el semen es el principal vector de transmisión sexual del VIH-1. Los subtipos del virus X4 y R5 se encuentran en la fracción líquida, conocida como líquido seminal”.</p><p><strong>¿Cuáles son los compuestos que tiene actividad inhibidora del X4?</strong></p><p>Los investigadores descubrieron que dos compuestos abundantes en el semen, la espermina y la espermidina, tenían actividad inhibidora del X4. Según la publicación, la espermina impide la infección de células por X4-VIH-1 al unirse al correceptor CXCR4.</p><p>Quienes llevaron a cabo el estudio señalaron que la espermina «puede no ser el único factor determinante del estrangulamiento de la transmisión del virus y es muy probable que otros factores, aún por identificar, también contribuyan».</p><p>«La espermina y la espermidina, presentes en el líquido seminal, parecen ser el origen del misterio no resuelto de la transmisión sexual del virus desde hace más de 40 años”, concluyó Herbeuva.</p><p><strong>Fuente: canal26.com</strong></p>",
+  "foto": "168877310807310.jpg",
+  "usuario": [
+    {
+      "$oid": "64a899719e6132ddc74ccc31"
+    },
+    "Patricia_Lebsack",
+    null,
+    "Patricia Lebsack",
+    539194257
+  ],
+  "categoria": [
+    "biotecnologia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:38:28.581Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:38:28.581Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a8a25e93fbc62fbd9fd666"
+  },
+  "titulo": "Un medicamento para la diabetes reduce hasta un 40% el riesgo de COVID prolongado, según The Lancet",
+  "descripcion": "<p>La infección por SARS-CoV-2 puede provocar una condición luego de transitar la enfermedad. Denominada como COVID prolongado, esta dolencia es de origen heterogénea y puede variar desde un solo síntoma hasta una afectación multiorgánica grave. Incluso, puede presentarse durante un corto periodo de tiempo o, bien, convertirse en una patología crónicamente debilitante.</p><p>Ante este escenario, la ciencia se ha esmerado en diagnosticar este estadío de la enfermedad correctamente y tratar de encontrar posibles tratamientos y opciones preventivas. Ahora, según un estudio publicado en The Lancet Infectious Diseases, las personas que tomaron un medicamento económico para la diabetes, después de dar positivo en la prueba de COVID-19, tenían un riesgo 40% menor de contraer su versión prolongada.</p><p>A este primer ensayo de Fase III aleatorizado y controlado con placebo se lo llamó COVID-OUT. El objetivo fue probar un medicamento llamado metformina, que se desarrolló originalmente a partir de la flor de la lila francesa y ha sido el fármaco más común utilizado para tratar la diabetes tipo 2 en todo el mundo, durante décadas. Esto implica que ya demostró ser un medicamento es seguro, además de económico y ampliamente disponible.</p><p>La investigación convocó a 1126 personas con sobrepeso u obesas en los Estados Unidos, la mitad de las cuales recibió metformina y la otra mitad placebo en los días posteriores a la prueba positiva de COVID-19. Después de 10 meses, a 35 de los participantes que tomaron metformina se les diagnosticó COVID prolongado, en comparación con 58 del grupo de placebo, lo que representa una reducción del riesgo del 40 por ciento.</p><p>El ensayo se realizó entre diciembre de 2020 y enero de 2022, lo que significa que incluyó la variante Omicron, cuya investigación ha sugerido que causa COVID prolongado a un ritmo más bajo que las cepas anteriores.</p><p><strong>Simple y efectivo</strong></p><p>El equipo detrás del ensayo COVID-OUT había demostrado previamente que la metformina redujo el riesgo de visitas al departamento de emergencias, hospitalizaciones y muerte de los pacientes que habían contraído la infección en más del 40%. Carolyn Bramante, especialista de la División de Medicina Interna General en Universidad de Minnesota, y autora principal del nuevo estudio, sugirió que “los datos muestran que la metformina reduce la cantidad del virus SARS -CoV-2 en los pacientes”.</p><p>Los investigadores advirtieron que no probaron la metformina en personas que ya habían sido diagnosticadas con COVID prolongado, por lo que los hallazgos no significaban que pudiera usarse para tratar la afección.</p><p>El estudio también encontró que el fármaco antiparasitario ivermectina, que fue objeto de desinformación durante la pandemia, así como el antidepresivo fluvoxamina, no previnieron la condición de long COVID.</p><p>Se estima que decenas de millones de personas han tenido esta variante prolongada de la dolencia, en el que numerosos síntomas, a veces debilitantes, duran o reaparecen tres meses después de la infección, para luego extenderse durante años. Los síntomas más comunes incluyen: fatiga, dificultad para respirar y una falta de claridad mental llamada niebla mental.</p><p>“El tratamiento ambulatorio con metformina redujo la incidencia de COVID de larga duración en aproximadamente un 41%, con una reducción absoluta del 4,1%, en comparación con el placebo. La metformina tiene beneficios clínicos cuando se usa como tratamiento ambulatorio para COVID-19 y está disponible en todo el mundo”, concluyó Bramante. Este estudio contó, además, con la participación de John B. Buse, David M. Liebovitz, Jacinda M. Nicklas, Michael A. Puskarich y Ken Cohen.</p><p><strong>Fuente: infobae.com</strong></p>",
+  "foto": "168877321425411.jpg",
+  "usuario": [
+    {
+      "$oid": "64a899719e6132ddc74ccc31"
+    },
+    "Patricia_Lebsack",
+    null,
+    "Patricia Lebsack",
+    539194257
+  ],
+  "categoria": [
+    "ciencia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:40:14.678Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:40:14.678Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a8a2bc93fbc62fbd9fd675"
+  },
+  "titulo": "México necesita impulsar políticas públicas en innovación",
+  "descripcion": "<p>Los avances tecnológicos y científicos son fundamentales para el desarrollo de una nación.</p><p>De acuerdo con el Índice Mundial de Innovación (2022), organizado por la Organización Mundial de la Propiedad Intelectual (OMPI), México ocupó el lugar 58 de 132.</p><p>Es el tercer país con mayor innovación de América Latina, solo está detrás de Chile (50) y Brasil (54), sin embargo, seguimos rezagados respecto a los países desarrollados.</p><p>En el índice se midieron varios indicadores, México salió rankeado en varios de ellos en los últimos lugares; la creación de negocios es muy difícil en nuestro país, ocupamos el lugar 120 en implementación de políticas públicas que fomenten un clima de negocios sano para la apertura de empresas, además, somos un país con un nulo estado de derecho, nos encontramos en la posición 104.</p><p>Se sabe que un país es innovador por el número de patentes registradas.</p><p>En 2019 se registraron en México 15,941 patentes, pero la mayoría de ellas son de extranjeros. Mientras el gobierno federal no invierta en ciencia y tecnología difícilmente podremos ser un país innovador, apenas se invierte el 0.38% del PIB en este rubro.</p><p>Es necesario que el Estado mexicano invierta, al menos, el 1% del PIB en ciencia y tecnología para que de esta manera se invierta más en investigación y desarrollo, como consecuencia de ello se incrementará la cantidad de patentes registradas por mexicanos en nuestro país.</p><p>México se encuentra en una coyuntura económica importante: el nearshoring.</p><p>De que no sirve como país que este fenómeno se presente si nuestros gobiernos no fomentan la innovación, la cual es fundamental para que nuestros productos, insumos y servicios locales tengan un valor agregado que ofrecer a las empresas nacionales y extranjeras.</p><p>México no debe ponerse como único objetivo el ser un país receptor de inversión extranjera, hay que impulsar las cadenas de valor locales a fin de que estén preparadas y tengan algo que ofrecer al inversionista nacional y extranjero.</p><p><strong>Fuente: milenio.com</strong></p>",
+  "foto": "168877330779812.jpg",
+  "usuario": [
+    {
+      "$oid": "64a899719e6132ddc74ccc31"
+    },
+    "Patricia_Lebsack",
+    null,
+    "Patricia Lebsack",
+    539194257
+  ],
+  "categoria": [
+    "innovacion"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:41:48.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:41:48.035Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a8a30f93fbc62fbd9fd684"
+  },
+  "titulo": "Inteligencia artificial: la ONU frente al despertar de los robots",
+  "descripcion": "<p>Pesadilla o realidad, la inteligencia artificial (IA) avanza a grandes pasos, pero muchos asuntos se encuentran aun sin respuesta, advirtió la ONU en la apertura el jueves de una conferencia de dos días en la que participan robots humanoides.</p><p>Muchos participantes sorprendieron por el realismo de los robots humanoides cruzados en los pasillos de esa «cumbre mundial sobre la IA al servicio del bien social», organizado por la Unión Internacional de las Telecomunicaciones (UIT), una agencia de la ONU.</p><p>Mientras que la investigación en materia de IA, en particular generativa, está en pleno auge, las Naciones Unidas piden crear reglas y límites para que esas tecnologías beneficien a la humanidad sin ponerla en peligro.</p><p>«Cuando la IA generativa se enfrentó al mundo hace algunos meses apenas, nunca vimos algo así. Inclusive los más grandes nombres de la tecnología consideraron la experiencia impresionante», declaró en la cumbre la secretaria general de la UIT, Doreen Bogdan-Martin, en referencia a la llegada del programa ChatGPT.</p><p>«La posibilidad de que esta forma de inteligencia pueda volverse más inteligente que nosotros se está acercando», señaló, y subrayó que eso sorprendió a todo el mundo, inclusive a los creadores de esas tecnologías.</p><p>En reacción, centenares de universitarios, empresarios y personalidades pidieron una moratoria de seis meses para el desarrollo de los sistemas de IA más poderosos, refiriéndose a «riesgos mayores para la humanidad».</p><p>En Ginebra, la ONU reunió esta semana más de 3.000 expertos, dirigentes y representantes de empresas para discutir sobre la necesidad de elaborar reglas que garanticen que la IA sea utilizada para fines positivos para la humanidad, como la lucha contra el hambre o el desarrollo sostenible.</p><p>Sin eso, la IA puede hacernos vivir una verdadera pesadilla, según Bogdan-Martin, que describe un mundo con millones de empleos en peligro y un auge de la desinformación, «conflictos sociales, une inestabilidad geopolítica y disparidades económicas de una magnitud que nunca hemos visto antes».</p><p>«Muchas de las preguntas que tenemos sobre la IA no tienen aun respuesta. ¿Hay que hacer una pausa sobre la experiencias más poderosas? Controlaremos la IA más de lo que ella pueda controlamos?¿ ¿Y la IA ayudará a la humanidad?» pidió.</p><p>Los robots humanoides reunidos en Ginebra no respondieron a esos interrogantes, pero tal vez lo harán el viernes en una conferencia de prensa inédita, donde nueve de ellos participarán. Humanoides o no, los robots invadieron la cumbre. Cantante, empleado en casa de jubilados, artista… es a veces difícil identificarlos a unos metros de distancia.</p><p><strong>Fuente: eltiempo.com</strong></p>",
+  "foto": "168877339096713.jpg",
+  "usuario": [
+    {
+      "$oid": "64a899719e6132ddc74ccc31"
+    },
+    "Patricia_Lebsack",
+    null,
+    "Patricia Lebsack",
+    539194257
+  ],
+  "categoria": [
+    "tecnologia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:43:11.231Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:43:11.231Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a8a5da93fbc62fbd9fd69b"
+  },
+  "titulo": "Investigadores chinos sorprenden al mundo con una CPU que ha diseñado una IA en 5 horas",
+  "descripcion": "<p>l diseño de una CPU (unidad central de procesamiento) es una tarea compleja que requiere de un equipo de ingenieros, arquitectos y programadores, y que puede llevar años de trabajo. Sin embargo, la inteligencia artificial o IA ha demostrado que puede hacerlo en solo cinco horas.</p><p>Un grupo de investigadores de la Universidad de Ciencia y Tecnología ha desarrollado un sistema de IA capaz de diseñar una CPU RISC-V a escala industrial. Este hito ha conseguido que la IA se sitúe en una posición de lo más relevante y, es que, conseguir diseñar una CPU es un proceso que no se puede hacer a la ligera.</p><p>El trabajo que ha realizado este grupo de investigadores ha sido publicado y puede ser consultado por cualquiera. Lo que se ha conseguido es utilizar la IA para que sea ella misma la que tome todas las decisiones a la hora de crear una CPU desde cero. Eso sí, antes de eso ha sido necesario entrenar a la IA.</p><p>La IA ha sido entrada gracias los datos de diseño de una CPU con arquitectura RISC-V. Este modelo de aprendizaje ha sido clave para que el proyecto salga adelante, de hecho, se ha mejorado mediante la utilización de un diagrama de decisión binaria o BSD en inglés. Todo ello junto al método Monte Carlo ha permitido que esta CPU sea una realidad.</p><p><strong>Se ha entrenado una IA para crear una CPU desde cero</strong></p><p>El estudio muestra el potencial de la IA para acelerar y mejorar el diseño de chips, especialmente los basados en RISC-V, una arquitectura abierta y flexible que permite la innovación. Pero los investigadores también dicen que la IA no quiere reemplazar a los humanos, sino complementarlos y asistirlos.</p><p>La IA puede generar diseños eficientes y competitivos, pero los humanos siguen siendo necesarios para validarlos, verificarlos y testearlos. El procesador creado se ha probado con Linux, kernel 5.15, siendo completamente operativo. No es un procesador de última generación, de hecho, cuenta con una velocidad de 300 MHz y se ha hecho en un proceso de 65 nanómetros.</p><p>Utilizar la IA como un punto de partida para crear elementos tan complejos como un procesador es simplemente el principio. Los procesadores del futuro podrán ser desarrollados por la IA, aunque para ello habrá que esperar bastante y, sobre todo, mejorar los procesos de fabricación para que el resultado no sea parecido a un procesador de hace treinta años.</p><p><strong>Fuente: computerhoy.com</strong></p>",
+  "foto": "168877410608214.jpg",
+  "usuario": [
+    {
+      "$oid": "64a49a4193a345c5bfa854d7"
+    },
+    "juan123",
+    "1688508990727perfil5.jpg",
+    "juan",
+    123456789
+  ],
+  "categoria": [
+    "tecnologia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-07T23:55:06.855Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T23:55:06.855Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a8a74c93fbc62fbd9fd6a9"
+  },
+  "titulo": "Un metamaterial que es capaz de contar hasta diez",
+  "descripcion": "<p>Físicos de Países Bajos han presentado en la revista Physical Review Letters y metamaterial a base de caucho que puede contar hasta diez e incluso recordar el orden en que se presiona.</p><p>«Me gusta encontrar complejidad en las cosas simples», explica el candidato a doctorando de AMOLF Amsterdam, Lennard Kwakernaak, al presentar una pieza de goma blanda con 22 vigas en pares. «Este es nuestro contador de rayos. Empújalo», dice en un comunicado.</p><p>El resultado es inesperado. Todas las barras se doblan hacia la izquierda excepto la primera, que se dobla hacia la derecha. «Esa primera barra luego empuja el siguiente par hacia la derecha y se mueve a lo largo de una posición cada vez que empujas el material. Así es como el material cuenta hasta diez».</p><p>El bloque de caucho es un ejemplo de metamaterial mecánico: un material cuyas propiedades están determinadas no solo por su composición sino también por su estructura. El grupo del profesor Martin van Hecke, en la Universidad de Leiden, investiga cómo se pueden usar materiales simples para procesar información, un poco como una computadora.</p><p>Una barra que se ajusta de izquierda a derecha se puede comparar con un bit de computadora que es cero o uno. «No es fácil diseñar la estructura para que responda de la manera que queremos», explica Kwakernaak. «Contar es el cálculo más simple que se nos ocurrió, así que ese fue un punto de partida lógico».</p><p>«Al desarrollar un material de este tipo, uno intenta descubrir las reglas del juego», explica el candidato a doctorado. «¿Qué se le permite hacer? La regla en este caso es sobre el contacto de un bar con sus vecinos directos».</p><p>Los investigadores también fueron un paso más allá de contar, explica. «En el camino, descubrí que puedes causar diferentes reacciones en la goma al empujar con diferentes niveles de fuerza. Al experimentar con esto, pude hacer un metamaterial que solo cuenta hasta el final si lo empujas en el orden correcto, con la cantidad correcta de fuerza. Una especie de candado, en otras palabras.</p><p>Un uso posible es contar autos de diferentes clases de peso que pasan por un puente. O un podómetro, por ejemplo, porque puedes hacer el metamaterial tan grande o pequeño como quieras. «La gran ventaja es que tales metamateriales mecánicos son baratos, robustos y de bajo mantenimiento», dice Kwakernaak.</p><p>«Eso los hace interesantes para todo tipo de aplicaciones. Es difícil decir exactamente cuáles serán, pero siempre encontramos un propósito para nuevos materiales como este. Por ejemplo, investigaciones anteriores sobre un material que se pliega como el origami inspiró el plegado de paneles solares en un satélite».</p><p>El mismo Kwakernaak disfruta especialmente viendo cómo las cosas aparentemente simples pueden ser muy complejas. «Cómo se dobla exactamente un haz tan delgado es mucho más complicado de lo que piensas. Una computadora apenas puede simularlo». Él se ríe, «A veces casi se siente como si fuera un aficionado profesional».</p><p>El siguiente paso de Kwakernaak es idear una estructura aún más complicada, donde haya interacción entre vecinos no solo en una dirección, sino en un plano. «Eso sería en realidad una computadora simple», dice.</p><p><strong>Fuente: europapress.es</strong></p>",
+  "foto": "168877447590315.jpg",
+  "usuario": [
+    {
+      "$oid": "64a49a4193a345c5bfa854d7"
+    },
+    "juan123",
+    "1688508990727perfil5.jpg",
+    "juan",
+    123456789
+  ],
+  "categoria": [
+    "innovacion"
+  ],
+  "createdAt": {
+    "$date": "2023-07-08T00:01:16.323Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-08T00:01:16.323Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a8a7da93fbc62fbd9fd6b7"
+  },
+  "titulo": "La milenaria técnica para curar heridas con larvas vivas que se está usando ante la escasez de antibióticos",
+  "descripcion": "<p>Diminutas larvas fueron enviadas por correo desde un laboratorio en Campinas, en el interior de São Paulo, en Brasil, hacia hospitales en ciudades como Natal, Río de Janeiro, Petrópolis, Belo Horizonte y Porto Alegre.</p><p>Eran larvas de dos especies de moscas creadas, alimentadas y esterilizadas por la bióloga Patricia Thyssen, de la Universidad Estadual de Campinas (Unicamp), con un fin médico muy específico: curar heridas de difícil cicatrización.</p><p>La razón es que estas larvas se alimentan de tejido humano en descomposición.</p><p>Por lo tanto, cuando se colocan sobre la piel de heridas infectadas -causadas, por ejemplo, por diabetes o úlceras venosas- las larvas se comen el tejido muerto y secretan sustancias curativas, lo reduce el uso de antibióticos o incluso los hace innecesarios.</p><p>Esta técnica, conocida como terapia larval, que aún es incipiente en Brasil, tiene sus raíces en conocimientos ancestrales, aunque un tanto repulsivos: hay registros históricos de que pueblos como los mayas, en América Central, y los aborígenes australianos ya usaban larvas para curar heridas hace miles de años.</p><p>Los mayas, por ejemplo, bañaban tejidos en sangre animal, los dejaban expuestos al sol para atraer moscas y luego los aplicaban en las heridas humanas, donde proliferaban las larvas.</p><p>La técnica también fue documentada empíricamente por médicos en la Europa medieval, la Guerra Civil de Estados Unidos (1861-65) y la Primera Guerra Mundial (1914-18).</p><p>Hasta que, en el siglo XX, la penicilina y la revolución antibiótica hicieron que tales tratamientos quedaran en desuso.</p><p>El problema es que hoy en día cada vez más antibióticos pierden su eficacia frente a las bacterias resistentes, algo que la Organización Mundial de la Salud (OMS) trata como una de las diez mayores amenazas para la salud pública de la actualidad.</p><p>Como resultado, más profesionales de la salud han vuelto en las últimas décadas a recurrir a las larvas para tratar heridas crónicas e infectadas, resistentes a los antibióticos y los apósitos tradicionales.</p><p>En Brasil, los investigadores quieren que la Agencia Nacional de Vigilancia Sanitaria (Anvisa) valide este tipo de terapia, ya que actualmente no clasifica este tipo de tratamiento como un medicamento o terapia médica.</p><p>Pero es un tratamiento que enfrenta muchos obstáculos, y que tiene riesgos asociados, como explica a continuación BBC News Brasil.</p><p><strong>Larvas que comen tejido infectado</strong></p><p>El primer estudio clínico de terapia larval fue realizado por el médico estadounidense William Baer, basado en su experiencia tratando a soldados en Francia durante la Primera Guerra Mundial, en 1917.</p><p>En un hospital del frente de batalla, Baer se encontró con dos pacientes que, a primera vista, parecían estar en una situación particularmente difícil: eran soldados con heridas abiertas en la pierna y el abdomen, que habían pasado días en las trincheras sin tratamiento, agua ni comida, expuestos a condiciones insalubres.</p><p>Sin embargo, Baer notó que las heridas de los dos soldados estaban infestadas de gusanos. Y que, a pesar del panorama aparentemente desolador, los dos hombres llegaron al hospital sin fiebre ni signos de septicemia o infecciones graves.</p><p>Por el contrario, “cuando observé la extensión de las heridas, en particular en el muslo, no pude evitar maravillarme del buen estado de los pacientes”, escribió Baer en su estudio.</p><p>A partir de ese episodio, el médico estadounidense decidió probar en el laboratorio el efecto de las larvas sobre las heridas, identificando la capacidad de cicatrización de algunas de ellas, aunque es importante resaltar que la falta de esterilización de las larvas utilizadas por Baer terminó provocando graves infecciones secundarias, como el tétanos, en algunos de sus pacientes.</p><p><strong>Esterilización</strong></p><p>Más de un siglo después, la terapia con larvas de hoy es muy diferente, y mucho más higiénica que la realizada por Baer o los pueblos mayas, excepto que el insumo básico sigue siendo el mismo: las moscas.</p><p>En realidad, moscas muy específicas. De cientos de miles de especies de moscas, Reino Unido solo usa una -la Lucilia sericata-, para tratamiento medicinal.</p><p>Es una especie conocida por reproducirse en basura y cuerpos en descomposición. Y eso habilita a sus larvas para tratar heridas humanas crónicas, explica a BBC News Brasil la doctora Yamni Nigam, profesora de Ciencias Biomédicas de la Universidad de Swansea (Reino Unido).</p><p>«Se alimentan de estos tejidos infectados y necróticos, limpian la herida y estimulan la formación de una buena piel”, dice Nigam.</p><p>El uso principal es en pacientes con diabetes, cuyas heridas, si no se tratan, pueden provocar la amputación de extremidades o la muerte.</p><p>“Son heridas que simplemente no cicatrizan, y a veces el paciente ni se da cuenta, porque los nervios (en la zona lesionada) no funcionan, hay una neuropatía. Es un caso clásico para el uso de larvas”, explica Nigam.</p><p>La larva de la mosca Lucilia sericata es una especie no invasora, incapaz de parasitar el cuerpo humano, dice la médica. «Y ella no come tejido sano, por lo que es perfecta para el trabajo».</p><p>En Reino Unido, el tratamiento se realiza con larvas desinfectadas en laboratorio y recogidas en pequeñas bolsas biológicas permeables, parecidas a una bolsita de té.</p><p>Bajo supervisación médica, estas bolsas se colocan durante un máximo de cinco días sobre la herida infectada y luego se desechan.</p><p>La porosidad de las bolsas permite que la larva entre en contacto directo con la herida y, al alimentarse de estos desechos enfermos, puede cuadruplicar su tamaño, pasando de 3 milímetros a 12 milímetros.</p><p>“Las larvas no tienen dientes: solo segregan un líquido que atraviesa la bolsa, y digiere y limpia la herida. Y luego vuelven a tragar el líquido, siempre dentro de la bolsa”, continúa Nigam, citando estudios que indican que el tratamiento es capaz de evitar amputaciones y reducir la necesidad de antibióticos.</p><p>La terapia con larvas comenzó a ser utilizada por algunos hospitales del Servicio de Salud Pública británico (NHS) a partir de la década de 2000, al mismo tiempo que fue aprobada por la agencia reguladora de medicamentos de EE.UU. (FDA).</p><p>Las larvas británicas son cultivadas, esterilizadas y empaquetadas por la empresa galesa BioMonde, que dijo a BBC News Brasil que suministra más de 5.000 bolsas biológicas al NHS anualmente.</p><p>La empresa también tiene una unidad en Alemania que exporta larvas a países europeos.</p><p>Según el NHS, en algunos casos el tratamiento provoca un aumento del dolor local, irritación de la piel o sangrado, y en esos casos se deben sacar las larvas.</p><p>“Las larvas producen anticoagulantes, por lo que no podemos usarlos en pacientes con alto riesgo de sangrado”, dice la doctora Nigam.</p><p>Finalmente, es importante resaltar que un tratamiento de este tipo nunca debe realizarse fuera del ámbito médico, y las larvas deben ser esterilizadas en un laboratorio, advierte la brasileña Patricia Thyssen.</p><p>«Nunca se debe usar una larva salvaje, porque (alguien que no es experto) no tiene forma de saber si es una especie de larva inofensiva y segura, ni la cantidad de bacterias que esa larva puede traer», aclara.</p><p>Pero si los riesgos de la terapia son menores que los beneficios potenciales (prevención de amputaciones e infecciones generalizadas, por ejemplo), ¿por qué la terapia está tan restringida?</p><p><strong>«Asco»</strong></p><p>“Es un tratamiento infrautilizado”, confirme Yamni Nigam. «Solo lo hemos usado en heridas muy difíciles, que de otro modo no se pueden tratar. Y es algo que tratamos de cambiar».</p><p>«¿Por qué dejamos la terapia con larvas solo como último recurso? ¿Por qué esperamos a que algunos pacientes sufran durante años, a veces probando diferentes tipos de vendajes y ungüentos, cuando sería suficiente usar las larvas durante cuatro días?», cuestiona.</p><p>El año pasado, Nigam y sus colegas realizaron una encuesta de opinión en Reino Unido, en la que solo el 36% de los 412 encuestados dijeron que estarían de acuerdo con el uso de gusanos para tratar una hipotética herida dolorosa.</p><p>«La principal preocupación es el asco asociado con la terapia», dice la encuesta.</p><p>Otras dificultades enumeradas por Nigam son que, a diferencia de las medicinas y los ungüentos tradicionales, las larvas no se producen y almacenan con tanta facilidad, y a menudo encuentran resistencia entre los médicos y las enfermeras.</p><p>Pero el avance de las superbacterias, según la médica, ha dado impulso a nuevas investigaciones.</p><p>“Las bacterias son seres muy inteligentes. Quedan pocos antibióticos que funcionen contra ciertas enfermedades. Además, las bacterias se asientan en las heridas y forman una pared, lo que llamamos biopelícula bacteriana, algo que es muy resistente a los antibióticos y muy difícil de tratar”, explica Nigam.</p><p>«Pero pudimos demostrar, en el laboratorio y en pacientes, que las larvas no solo logran romper este biofilm, sino que su líquido también evita que se forme».</p><p>A medida que avance este conocimiento, dice la experta, puede ser posible en el futuro utilizar el líquido secretado por las larvas para impermeabilizar prótesis humanas antes de la cirugía, por ejemplo, para prevenir infecciones.</p><p>Nigam cree que debemos cambiar la forma en que vemos a estas criaturas.</p><p>«Me parece que (la terapia con larvas) nunca se generalizará por el factor del asco, la reticencia», dice. «Pero creo que la percepción negativa asociada con los gusanos debe cambiar. Tenemos que pensar en ellos como medicina o equipo médico, no como un ser repulsivo que vemos en la basura».</p>",
+  "foto": "168877461815916.jpg",
+  "usuario": [
+    {
+      "$oid": "64a49a4193a345c5bfa854d7"
+    },
+    "juan123",
+    "1688508990727perfil5.jpg",
+    "juan",
+    123456789
+  ],
+  "categoria": [
+    "ciencia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-08T00:03:38.829Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-08T00:03:38.829Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a8a83e93fbc62fbd9fd6c5"
+  },
+  "titulo": "Descubren que perros procesan información casi como humanos",
+  "descripcion": "<p>Los humanos y los perros procesan la información social en áreas cerebrales idénticas, sugiere un estudio realizado por un equipo de investigadores de la Universidad de Viena (Austria).</p><p>En la investigación, publicada en la revista Communications Biology, los especialistas mostraron a un grupo de 15 perros imágenes de otros congéneres y de juguetes. Simultáneamente, los animales fueron sometidos a tomografías de resonancia magnética, que revelaron las reacciones que ocurren en el cerebro canino ante dichas ilustraciones. En un experimento similar participaron 40 personas.</p><p>Tras comparar los datos de ambos grupos, los responsables del estudio observaron por primera vez la evidencia de que el cerebro de los perros tiene un área en el lóbulo temporal que se especializa en la percepción visual de las posturas corporales. El cerebro de los humanos también cuenta con una área similar, además de regiones cerebrales que procesan exclusivamente la información de los rostros.</p><p>“Los humanos, a menudo nos enfocamos en el rostro cuando nos comunicamos con los demás. Nuestros resultados sugieren que la cara también es una importante fuente de información para los perros. Sin embargo, la postura y una percepción holística parecen desempeñar un papel importante”, sostiene Magdalena Boch, quien dirigió el estudio.</p><p>Los canes prestan más atención a la postura y al movimiento en general, explica. Asimismo, cuando los perros ven una imagen, en su cerebro se activan áreas responsables del olfato, que lo tienen mucho más desarrollado que los humanos.</p><p>Los hallazgos de esta investigación ilustran cómo el cerebro de dos especies de mamíferos procesan de manera similar la información social, proporcionando un ejemplo de evolución convergente.</p><p><strong>Fuente: diarioelnorte.com.ar</strong></p>",
+  "foto": "168877471735617.jpg",
+  "usuario": [
+    {
+      "$oid": "64a49a4193a345c5bfa854d7"
+    },
+    "juan123",
+    "1688508990727perfil5.jpg",
+    "juan",
+    123456789
+  ],
+  "categoria": [
+    "ciencia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-08T00:05:18.080Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-08T00:05:18.080Z"
+  }
+},{
+  "_id": {
+    "$oid": "64aa03c0810cf50044c925b3"
+  },
+  "titulo": "Cáncer: el misterio de los microbios que viven dentro de los tumores",
+  "descripcion": "<p>Nuestros cuerpos son hábitats para otras formas de vida.</p><p>El intestino, la boca, la nariz y la piel albergan diversas comunidades de microbios que pueden ser buenos o malos para nuestra salud.</p><p>Sin embargo, durante los últimos años los científicos encontraron microbios en un lugar más sorprendente: los tumores.</p><p>Es común pensar que los tumores son simples masas de células del paciente que funcionan mal y crecen sin control. De hecho, son comunidades de muchos tipos de células diferentes, lo cual explica en parte la dificultad para atacarlos sin dañar el tejido sano.</p><p>Pero los tumores también albergan una colección de células de otras formas de vida: bacterias y hongos. Algunos prosperan en el ambiente alrededor del tumor, mientras que otros viven dentro de las propias células cancerígenas.</p><p>Sin embargo, hasta hace poco tiempo no se entendía claramente qué papel desempeñaban los microbios en los tumores.</p><p>Ahora los científicos comienzan a desentrañar si estos microorganismos son cómplices que ayudan a las células cancerosas a desarrollarse o simplemente transeúntes atrapados en el tumor.</p><p>Las respuestas podrían proporcionar nuevos enfoques para tratar y prevenir el cáncer.</p><p><strong>Bacterias que protegen los tumores</strong></p><p>En un estudio de 2017, Ravid Straussman, biólogo del cáncer en el Instituto de Ciencias Weizmann en Rehovot, Israel, demostró junto con su equipo que algunas bacterias que viven dentro del cáncer de páncreas pueden proteger los tumores al desactivar un medicamento de quimioterapia común.</p><p>Descubrieron que una clase particular de bacteria, conocida como Gammaproteobacteria, podría descomponer la gemcitabina, un medicamento que se usa para tratar varios tipos de cáncer, incluidos los que se encuentran en la vejiga, el seno y el páncreas. Esto ayuda a que los tumores se volvieran resistentes al fármaco.</p><p>Cuando el equipo inyectó la bacteria en ratones con cáncer de colon, los tumores también se volvieron resistentes al medicamento. Pero cuando los investigadores dieron a los ratones un antibiótico junto con el fármaco de quimioterapia, la resistencia desapareció.</p><p>Además de estos hallazgos, una investigación publicada en 2019 por un equipo de la Universidad de Tohoku, en Japón, analizó retrospectivamente a pacientes que padecían tumoraciones avanzadas y fueron tratados con un fármaco de quimioterapia y aquellos que recibieron un antibiótico además de la quimioterapia, en un intento por prevenir o tratar una infección existente.</p><p>Descubrieron que los pacientes que recibieron un antibiótico respondieron mejor al tratamiento.</p><p>Aunque el estudio no examinó la cantidad de bacterias presentes en el tejido canceroso de estos pacientes, los investigadores especularon con que los antibióticos podrían haber eliminado las bacterias asociadas al tumor y que podrían haber interferido con el tratamiento del cáncer.</p><p>Los estudios ofrecen una pista tentadora de lo que ocurre dentro de los tumores.</p><p>Straussman y su equipo ahora esperan aprovechar estos estudios con un ensayo clínico que involucre a pacientes con cáncer de páncreas que fracasaron en su tratamiento de primera línea.</p><p>Darán a los pacientes un antibiótico que actúa contra la Gammaproteobacteria, junto con gemcitabina, para ver si el antibiótico mejora sus resultados.</p><p><strong>Bacterias que empeoran el cáncer</strong></p><p>Las bacterias también podrían desempeñar otras funciones en el cáncer además de proteger a los tumores del tratamiento farmacológico.</p><p>En 2020, el equipo de Straussman analizó más de 1.500 tumores humanos en siete tipos diferentes de cáncer: mama, pulmón, ovario, páncreas, melanoma, hueso y cerebro.</p><p>Descubrieron que todos los tipos de tumores estaban invadidos por bacterias, que vivían dentro de las células cancerígenas y algunas de las células inmunitarias.</p><p>Diferentes tipos de tumores tenían distintas comunidades de bacterias.</p><p>«Cada una de estas bacterias se ha adaptado al microambiente tumoral único en el que viven», dice Straussman.</p><p>«En el cáncer de pulmón, demostramos cómo las personas que fuman tienen más bacterias que pueden degradar la nicotina, que es un metabolito relacionado con el humo.</p><p>En los tumores de huesos, vemos bacterias que metabolizan la hidroxiprolina, que es un metabolito enriquecido en los tumores óseos».</p><p>En muchos casos, aún no está claro si las bacterias ayudan al paciente a mantener las células cancerosas bajo control.</p><p>Las bacterias que se encuentran en algunos tipos de cáncer de mama, por ejemplo, pueden desintoxicar el arseniato, un tipo de carcinógeno conocido por aumentar el riesgo de cáncer de mama.</p><p>Otros pueden producir una sustancia química llamada micotiol, que ayuda a reducir los niveles de moléculas de oxígeno reactivas que pueden dañar el ADN.</p><p>Sin embargo, cada vez hay más pruebas de que, en algunos casos, las bacterias que habitan en los tumores pueden empeorar el cáncer.</p><p>«Cada vez aparecen más artículos que muestran cómo pueden ser parte de la carcinogénesis», dice Straussman.</p><p>Las bacterias también puede alterar la capacidad del sistema inmunológico para atacar y destruir las células cancerosas, agrega. «Realmente estamos arañando la superficie».</p><p>Straussman asegura que es necesario hacer mucho más para estudiar los efectos que las bacterias dentro de los tumores tienen en el curso de la enfermedad.</p><p><strong>Algunas pistas</strong></p><p>Un estudio de 2022, realizado por científicos en China, sugiere que algunas bacterias en los tumores de mama podrían facilitar que las células cancerígenas se propaguen a otras partes del cuerpo.</p><p>Los investigadores encontraron bacterias que vivían dentro de las células tumorales de mama que circulaban en la sangre de los ratones. Estas células se desprenden del tumor primario y pueden viajar a otras partes del cuerpo, hacer metástasis y crecer.</p><p>Sin embargo, a medida que las células tumorales circulan por el torrente sanguíneo están sometidas a un estrés que hace que algunas de ellas se rompan.</p><p>Los investigadores chinos encontraron que los microbios dentro de estas células tumorales móviles parecen protegerlas de parte de ese estrés que experimentan. Al hacerlo, ayudan a reorganizar las estructuras de soporte celular internas, conocidas como citoesqueleto, para que las células sean más robustas.</p><p>Cuando los científicos eliminaron estas bacterias de los tumores en ratones, las lesiones parecían perder su capacidad de hacer metástasis, aunque el cáncer de mama primario seguía creciendo.</p><p>«Cada vez hay más pruebas de que microbios específicos en el intestino, la piel y otros órganos de la mucosa, así como en los tumores, pueden promover el crecimiento y la progresión del tumor o, alternativamente, antagonizarlo», dice Douglas Hanahan, oncólogo del Instituto Suizo para la Investigación Experimental del Cáncer en Lausana, Suiza.</p><p>«El panorama es muy complicado. Aunque hay pistas, no hay una claridad definitiva sobre quién hace qué».</p><p>Bacterias que migran</p><p>Otros estudios analizaron una bacteria oral llamada Fusobacterium nucleatum, asociada con la enfermedad de las encías, pero que también podría estar vinculada con varios tipos de cáncer.</p><p>Parece que estas bacterias pueden migrar de la boca a las células de cáncer colorrectal a través del torrente sanguíneo.</p><p>Cada bacteria transporta partículas específicas en su superficie que se unen a la superficie de las células cancerosas, lo que le permite colonizarlas.</p><p>Una vez instaladas, las bacterias pueden acelerar el crecimiento y la propagación de los tumores al obstaculizar la capacidad del sistema inmunitario para eliminar las células cancerosas.</p><p>La bacteria también despliega un arsenal molecular que hace que las células cancerosas sean más resistentes a la quimioterapia.</p><p>Además, se encontró ADN de Fusobacterium nucleatum en muestras de cáncer de mama humano. Esto sugiere que también afecta a los tumores en otras partes del cuerpo.</p><p>En un estudio, cuando la bacteria se introdujo en ratones con cáncer de mama, aceleró la progresión y propagación de la enfermedad. Dar antibióticos a los ratones evitó ese proceso.</p><p><strong>El riesgo de los antibióticos</strong></p><p>Puede parecer tentador incluir antibióticos en las terapias contra el cáncer, pero no es tan simple como eso. Muchos de los microbios en nuestro cuerpo son benignos o incluso beneficiosos, por lo que un tratamiento con antibióticos podría causar más daño que bien, dice Hanahan.</p><p>En cambio, los investigadores deben tratar de desentrañar toda la complejidad del microbioma asociado al tumor. Se pueden encontrar comunidades enteras de microbios dentro de los tumores, que se apoyan entre sí de formas inesperadas.</p><p>Uno de esos ejemplos gira en torno al principal fármaco utilizado para tratar a pacientes con cáncer colorrectal, el 5-fluorouracilo (5-FU), que parece inhibir el crecimiento de la problemática Fusobacterium nucleatum.</p><p>Sin embargo, ciertas cepas de Escherichia coli, bacterias comunes que se encuentran en el intestino, desactivan el fármaco.</p><p>Se descubrió que al menos 33 tipos diferentes de cáncer tienen colonias de bacterias asociadas a ellos, gracias a técnicas desarrolladas en la Universidad de California en San Diego, que buscan su ADN.</p><p>Los investigadores creen que las técnicas también podrían usarse para desarrollar nuevas formas de diagnosticar el cáncer, buscando el ADN de distintas bacterias asociadas al tumor en la sangre de un paciente.</p><p><em>El uso de los antibióticos junto con el tratamiento para el cáncer debe ser prescrito por un especialista.</em></p><p><strong>La presencia de hongos</strong></p><p>El equipo detrás de este estudio unió fuerzas con Ravid Straussman para hacer una investigación en 2022 que reveló otro tipo de microbio, los hongos, también viven en los tumores.</p><p>Encontraron hongos en 35 tipos de cáncer, muchos de los cuales albergan distintas combinaciones de especies.</p><p>«Encontramos que los tumores que tienen más bacterias también tienen más hongos y los que tienen menos bacterias tienen menos hongos», dice Straussman.</p><p>«Solo podemos suponer en este punto que algunos tumores son más restrictivos para la presencia de microbios, mientras que algunos son más permisivos», señala.</p><p>Al igual que con las bacterias, algunos de estos hongos parecen estar manipulando el sistema inmunológico a favor del tumor.</p><p>Se ha descubierto que el hongo Malassezia globosa acelera el desarrollo de una forma de cáncer de páncreas. Los mismos hongos también han sido hallados en pacientes con cáncer de mama que tienden a tener una supervivencia general más corta, según el trabajo de Straussman y sus colegas de la Universidad de California en San Diego.</p><p>Otra investigación encontró que algunos hongos presentes en los tumores de páncreas secuestran partes del sistema inmunitario para promover el crecimiento del tumor.</p><p>Un estudio de 2022 también mostró que los tumores de estómago ricos en hongos Candida muestran una mayor expresión de genes tumorales que promueven la inflamación y que los tumores de colon ricos en ADN de Candida tienen más probabilidades de ser metastásicos.</p><p>“Esto podría deberse a que un mayor número de Candida puede estar asociado con la pérdida de la barrera epitelial intestinal [las células que recubren el intestino]», dice Iliyan Iliev, microbiólogo de la Universidad de Cornell, cuyo equipo realizó la investigación.</p><p>A pesar del rápido ritmo de estos hallazgos, aún quedan muchas preguntas sobre la relación entre los tumores y los microbios que viven en ellos.</p><p>¿Los microbios juegan un papel en el desarrollo del tumor en primer lugar? ¿O son simplemente residentes oportunistas que se han adaptado para proteger su hogar canceroso cuando lo encuentran? ¿Se puede aprovechar esta comunidad de microbios para ayudarnos en nuestra lucha contra el cáncer?</p><p>En los próximos años, atacar los microbios tumorales puede volverse tan importante como perseguir las propias células cancerosas, lo que conducirá a diagnósticos más tempranos e incluso a nuevos tratamientos.</p><p>Sin embargo, ese trabajo apenas comienza.</p><p><strong>Fuente: BBC</strong></p>",
+  "foto": "1688863680041cancer.jpg",
+  "usuario": [
+    {
+      "$oid": "64a899719e6132ddc74ccc31"
+    },
+    "Patricia_Lebsack",
+    null,
+    "Patricia Lebsack",
+    539194257
+  ],
+  "categoria": [
+    "biotecnologia"
+  ],
+  "createdAt": {
+    "$date": "2023-07-09T00:48:01.737Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T00:48:01.737Z"
+  }
+}]

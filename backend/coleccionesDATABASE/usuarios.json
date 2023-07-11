@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "64a49a4193a345c5bfa854d7"
+  },
+  "nombre": "juan",
+  "username": "juan123",
+  "correo": "juan@gmail.com",
+  "telefono": 123456789,
+  "password": "$2b$10$T6C38uccNl1d.BEJv0fKReQ/hiZO5QxRb4idRxOnndSihznOFcyH.",
+  "foto": "1688508990727perfil5.jpg",
+  "rol": "admin"
+},{
+  "_id": {
+    "$oid": "64a898b39e6132ddc74ccc28"
+  },
+  "nombre": "Leanne Graham",
+  "username": "Leanne_Graham",
+  "correo": "Sincere@april.biz",
+  "telefono": 929983874,
+  "password": "$2b$10$He8E.TFV0MdajPNN6J/LbeOdcPcS2fD3aG29Q82y.yR.PfPGDiH22",
+  "foto": "1688770737126person_1.jpg",
+  "rol": "usuario"
+},{
+  "_id": {
+    "$oid": "64a899009e6132ddc74ccc2b"
+  },
+  "nombre": "Ervin Howell",
+  "username": "Ervin_Howell",
+  "correo": "Shanna@melissa.tv",
+  "telefono": 905667771,
+  "password": "$2b$10$sJh4q/gn8i9rsujie4/kp.GL1POLj0zYyoMFkJfyiEydWN11QS2qq",
+  "foto": "1688770815136person_4.jpg",
+  "rol": "usuario"
+},{
+  "_id": {
+    "$oid": "64a899469e6132ddc74ccc2e"
+  },
+  "nombre": "Clementine Bauch",
+  "username": "Clementine_Bauch",
+  "correo": "Nathan@yesenia.net",
+  "telefono": 595904157,
+  "password": "$2b$10$zvgMC/PnMHkYIliFIFxZN.oK.JW5Kv0lAH8TPhxh/HwFPKKMHAXZq",
+  "foto": "1688770885398person_2.jpg",
+  "rol": "usuario"
+},{
+  "_id": {
+    "$oid": "64a899719e6132ddc74ccc31"
+  },
+  "nombre": "Patricia Lebsack",
+  "username": "Patricia_Lebsack",
+  "correo": "Julianne.OConner@kory.org",
+  "telefono": 539194257,
+  "password": "$2b$10$QOLjHC9TaTn3NXQtsb5rj.wYPJ2sOW2hfXte5XFZ3ZNE1K0t16g/S",
+  "rol": "usuario"
+}]
