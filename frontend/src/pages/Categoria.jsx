@@ -8,7 +8,6 @@ function Categoria() {
 
     const [searchParams] = useSearchParams()
     const [publicaciones, setPublicaciones] = useState([]);
-    const [publicacionesS, setPublicacionesS] = useState([]);
     const navigate = useNavigate();
 
     const getText = (html) => {
