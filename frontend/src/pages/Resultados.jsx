@@ -11,23 +11,6 @@ function Resultado() {
 	const [publicaciones, setPublicaciones] = useState([]);
 
 
-	// eslint-disable-next-line react-hooks/exhaustive-deps
-	const cargarPublicaciones = async () => {
-		const res = await fetch(URL_API + '/buscarPublicaciones', {
-			method: 'POST',
-			headers: {
-				'Content-Type': 'application/json'
-			},
-			body: JSON.stringify({ "titulo": searchParams.get('titulo') }),
-		});
-		const data = await res.json();
-		if (res.status === 500) {
-			toast.error('PUBLICACION NO ENCONTRADA');
-			navigate('/')
-		}
-		setPublicaciones(data);
-	}
-
 	const getText = (html) => {
 		const doc = new DOMParser().parseFromString(html, "text/html")
 		return doc.body.textContent
@@ -42,10 +25,25 @@ function Resultado() {
 		if (searchParams.get('titulo') === null) {
 			navigate('/')
 		} else {
+			const cargarPublicaciones = async () => {
+				const res = await fetch(URL_API + '/buscarPublicaciones', {
+					method: 'POST',
+					headers: {
+						'Content-Type': 'application/json'
+					},
+					body: JSON.stringify({ "titulo": searchParams.get('titulo') }),
+				});
+				const data = await res.json();
+				if (res.status === 500) {
+					toast.error('PUBLICACION NO ENCONTRADA');
+					navigate('/')
+				}
+				setPublicaciones(data);
+			}
 			cargarPublicaciones();
 		}
 
-	}, [cargarPublicaciones, navigate, searchParams]);
+	}, [navigate, searchParams]);
 
 	return (
 		<div className="section search-result-wrap">
