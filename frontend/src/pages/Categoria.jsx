@@ -21,12 +21,6 @@ function Categoria() {
         navigate(`/search?titulo=${e.target[0].value}`)
     };
 
-    const cargarPublicacionesS = async () => {
-        const res = await fetch(URL_API + '/publicacionesRecomendadas')
-        const data = await res.json();
-        setPublicacionesS(data);
-    }
-
     useEffect(() => {
         if (searchParams.get('categoria') === null) {
             navigate('/')
@@ -40,8 +34,7 @@ function Categoria() {
                 }
                 setPublicaciones(data);
             }
-            cargarPublicaciones()
-            cargarPublicacionesS()
+            cargarPublicaciones();
         }
 
     }, [navigate, searchParams]);
@@ -57,7 +50,7 @@ function Categoria() {
                 <div className="row posts-entry">
                     <div className="col-lg-8">
                         {
-                            publicacionesS.length > 0 ?
+                            publicaciones.length > 0 ?
                                 (
                                     publicaciones.map((publicacion, index) => (
                                         <div className="blog-entry d-flex blog-entry-search-item" key={index}>
@@ -107,39 +100,6 @@ function Categoria() {
                                 <input type="text" className="form-control" name="titulo" placeholder="Titulo del post y enter" />
                             </form>
                         </div>
-
-                        <div className="sidebar-box">
-                            <h3 className="heading">Post Recomendados</h3>
-                            <div className="post-entry-sidebar">
-                                <ul>
-                                    {publicaciones.length > 0 && publicaciones.map((publicacion, index) => (
-                                        publicacion._id !== null && (
-                                            <li className="my-2" key={index}>
-                                                <Link to={"/Post?id=" + publicacion._id} >
-                                                    {publicacion.foto ? (
-                                                        <Link to={"/Post?id=" + publicacion._id} className="img-link me-4">
-                                                            <img src={URL_API2+publicacion.foto} alt="Imag" style={{ "width": "100px", "height": "100px" }} />
-                                                        </Link>
-                                                    ) : (
-                                                        <Link to={"/Post?id=" + publicacion._id} className="img-link me-4">
-                                                            <img src="images/sinImagen.jpg" alt="Imag" className="img-fluid" />
-                                                        </Link>
-                                                    )}
-                                                    <div className="text">
-                                                        <h4>{publicacion.titulo}</h4>
-                                                        <div className="post-meta">
-                                                            <span className="mr-2">{publicacion.createdAt.slice(0, 10)}</span>
-                                                        </div>
-                                                    </div>
-                                                </Link>
-                                            </li>
-                                        )
-                                    ))
-                                    }
-                                </ul>
-                            </div>
-                        </div>
-
                         <Seccion />
 
                     </div>
